@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "com.moodle.cisionline",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3800,
@@ -74,7 +74,7 @@
         75.89,
         93.75
     ],
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "cisionline",
     "siteurl": "",
     "sitename": "",
     "multisitesdisplay": "",
