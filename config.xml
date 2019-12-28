@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.cisionline"
-        versionCode = "3800"
+        versionCode = "38000"
         android-versionCode = "38001"
-        ios-CFBundleVersion = "3.8.0.2"
+        ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
    <name>Tadawul Exams</name>
 
