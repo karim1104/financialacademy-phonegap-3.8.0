@@ -1,7 +1,7 @@
 {
     "app_id": "com.moodle.cisionline",
-    "appname": "Tadawul Exams",
-    "desktopappname": "Tadawul Exams",
+    "appname": "Financial Academy",
+    "desktopappname": "Financial Academy",
     "versioncode": 3802,
     "versionname": "3.8.2",
     "cache_update_frequency_usually": 420000,
@@ -67,7 +67,7 @@
     ],
     "customurlscheme": "moodlemobile",
     "siteurl": "http://65.0.202.2",
-    "sitename": "Tadawul Learning Portal",
+    "sitename": "Financial Academy",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
