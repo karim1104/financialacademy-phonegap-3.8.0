@@ -2,15 +2,15 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.cisionline"
+        id        = "com.tadawul.financialacademy"
         versionCode = "38002"
         android-versionCode = "38002"
         ios-CFBundleVersion = "3.8.0.2"
         version   = "3.8.2">
-   <name>Tadawul Exams</name>
+   <name>Financial Academy</name>
 
     <description>
-        Tadawul Exams official app
+        Financial Academy
     </description>
 
      <author href="https://www.TadawulExams.com" email="admin@tadawul.academy">
